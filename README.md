@@ -1,5 +1,10 @@
 # Laboratório 1 — Meu Primeiro Servidor MCP
 
+<p align="center">
+  <img src="img/qrcode.png" alt="QR code para github.com/lfserique/meu-mcp" width="240"><br>
+  <a href="https://github.com/lfserique/meu-mcp">github.com/lfserique/meu-mcp</a>
+</p>
+
 **Faculdade de Tecnologia e Inovação Senac DF** · Roteiro de Atividade Prática de Laboratório · *Oficina MCP: a porta USB da IA*
 
 Prof. Luiz Fernando Sirotheau Serique Junior
