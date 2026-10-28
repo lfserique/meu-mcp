@@ -9,6 +9,8 @@
 
 Prof. Luiz Fernando Sirotheau Serique Junior
 
+📑 **Slides da oficina:** [apresentacao-mcp.pdf](apresentacao-mcp.pdf)
+
 ## 1. Objetivos de Aprendizagem
 
 Ao concluir este laboratório, vocês serão capazes de:
